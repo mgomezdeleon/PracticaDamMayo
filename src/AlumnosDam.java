@@ -4,6 +4,7 @@ public class AlumnosDam {
 	public static void main(String[] args) {
 		System.out.println("Alumnos Dam");
 		
+		
 		for(int i=0; i<=10; i++) {
 			System.out.println("Tabla del " + i + ":");
 		}
