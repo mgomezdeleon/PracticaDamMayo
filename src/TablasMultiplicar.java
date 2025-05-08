@@ -1,10 +1,10 @@
 public class TablasMultiplicar {
 
     public static void main(String[] args) {
-        imprimirTablasMultiplicar();
+        imprimiTablasMultiplicar();
     }
 
-    public static void imprimirTablasMultiplicar() {
+    public static void imprimiTablasMultiplicar() {
         for (int i = 1; i <= 10; i++) {
             System.out.println("Tabla del " + i + ":");
             for (int j = 1; j <= 10; j++) {
